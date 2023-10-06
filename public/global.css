@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-poller-one: "Poller One";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-37xl: 56px;
+  --font-size-17xl: 36px;
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+  --font-size-9xl: 28px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: #fdfdfd;
+  --color-gray-200: #252525;
+  --color-white: #fff;
+  --color-darkgray: #9d9d9d;
+  --color-turquoise: rgba(30, 229, 193, 0);
+  --color-olive: #968135;
+  --color-darkolivegreen: #4e3e06;
+  --color-darkkhaki: #a78f3c;
+
+  /* Gaps */
+  --gap-8xs: 5px;
+  --gap-56xl: 75px;
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-mini: 15px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+}

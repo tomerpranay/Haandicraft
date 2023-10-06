@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-aclonica: Aclonica;
+  --font-alfa-slab-one: "Alfa Slab One";
+  --font-poppins: Poppins;
+  --font-abeezee: ABeeZee;
+  --font-abhaya-libre-extrabold: "Abhaya Libre ExtraBold";
+  --font-europa-bold: Europa-Bold;
+  --font-europanuova-bold: EuropaNuova-Bold;
+  --font-actor: Actor;
+  --font-europa-regular: Europa-Regular;
+  --font-roboto: Roboto;
+  --font-segoe-ui: "Segoe UI";
+  --font-europanuova-regular: EuropaNuova-Regular;
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-23xl: 42px;
+
+  /* Colors */
+  --color-gray-100: #121416;
+  --color-gray-200: rgba(255, 255, 255, 0.2);
+  --color-gray-300: rgba(0, 0, 0, 0.25);
+  --color-gray-400: rgba(18, 20, 22, 0.2);
+  --color-white: #fff;
+  --color-black: #000;
+  --c-black-20: #6e6e6e;
+  --color-dimgray-100: #5f6368;
+  --primary: #7a65e1;
+  --color-slategray-100: #6c757d;
+  --color-slategray-200: rgba(108, 117, 125, 0.4);
+  --color-midnightblue: #2f0a4d;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-21xl: 40px;
+  --gap-11xl: 30px;
+  --gap-6xl: 25px;
+  --gap-3xs: 10px;
+  --gap-10xs: 3px;
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-181xl: 200px;
+  --br-11xs: 2px;
+  --br-9xs: 4px;
+}
